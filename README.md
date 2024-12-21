@@ -2,4 +2,5 @@
 
 Параллельная сортировка пузырьком
 
-![ParallelSort](PP-ParallelSort.jpg)
+### Пример:
+![ParallelSort](PP-ParallelBubbleSort.jpg)
